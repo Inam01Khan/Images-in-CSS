@@ -47,8 +47,39 @@ img{
 /* BACKGROUND IMAGES */
 
 
-body{
+/* body{
     background-image: url(/img/Small-bike.jpg);
     background-position: left;
     background-repeat: no-repeat;
+} */
+
+
+
+/*  LINEAR GRADIENT */
+
+/* #gradient{
+    background-image: linear-gradient(red yellow);
+    background-repeat: no-repeat;
+    height: 100vh;
+} */
+
+
+
+/* RADIAL GRADIENT */
+
+/* #gradient{
+    width: 400px;
+    height: 400px;
+    background-image: radial-gradient(red yellow);
+    margin: auto;
+} */
+
+
+/* CONICAL GRADIENT */
+
+#gradient{
+    width: 400px;
+    height: 400px;
+    background-image: conic-gradient(red yellow);
+    margin: auto;
 }
