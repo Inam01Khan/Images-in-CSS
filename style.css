@@ -19,9 +19,36 @@ img{
 
 /* CENTERING IMAGES */
 
-img{
+/* img{
     width: 300px;
     height: 300px;
     display: block;
     margin: auto;
+} */
+
+
+
+/* BACKGROUNG IMAGES */
+
+/* body{
+    background-image: url(./img/Large-bike.webp);
+} */
+
+
+
+/* BACKGROUND REPEAT */
+
+/* body{
+    background-image: url(./img/Large-bike.webp);
+    background-attachment: scroll;
+} */
+
+
+/* BACKGROUND IMAGES */
+
+
+body{
+    background-image: url(/img/Small-bike.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
 }
