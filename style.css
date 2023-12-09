@@ -1,6 +1,17 @@
 /* SIZE OF IMAGES */
 
-img{
+/* img{
     width: 250px;
     height: 250px;
+} */
+
+
+/* ALIGNING IMAGES */
+
+/* img{
+    margin-left: 300px;
+} */
+
+img{
+    float: right;
 }
